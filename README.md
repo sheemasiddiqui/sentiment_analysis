@@ -1,4 +1,4 @@
-# Data Science Project
+# About the Project
 
 This project focuses on analyzing and classifying reviews using natural language processing (NLP) techniques. The main steps of the project include data cleaning, exploratory data analysis (EDA), sentiment analysis, feature extraction, and classification.
 
@@ -7,7 +7,7 @@ This project focuses on analyzing and classifying reviews using natural language
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#introduction">About The Project</a>
+      <a href="#introduction">Introduction</a>
     </li>
     <li>
       <a href="#data-loading">Loading the Data</a>
@@ -36,7 +36,7 @@ This project focuses on analyzing and classifying reviews using natural language
   </ol>
 </details>
 
-## About the Project 
+## Introduction 
 In this project, we analyze a dataset of reviews using NLP techniques. The goal is to classify reviews based on their sentiment using machine learning algorithms. The steps involved in the project include data loading, cleaning, EDA, sentiment analysis, feature extraction, and classification.
 
 ## Data Loading 
