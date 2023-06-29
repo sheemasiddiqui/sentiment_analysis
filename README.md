@@ -36,7 +36,7 @@ This project focuses on analyzing and classifying reviews using natural language
   </ol>
 </details>
 
-## Introduction 
+## About the Project 
 In this project, we analyze a dataset of reviews using NLP techniques. The goal is to classify reviews based on their sentiment using machine learning algorithms. The steps involved in the project include data loading, cleaning, EDA, sentiment analysis, feature extraction, and classification.
 
 ## Data Loading 
